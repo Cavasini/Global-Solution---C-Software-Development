@@ -1,0 +1,14 @@
+D:\c#\GS-CSharp\GS-CSharp\bin\Debug\net8.0\GS-CSharp.exe
+D:\c#\GS-CSharp\GS-CSharp\bin\Debug\net8.0\GS-CSharp.deps.json
+D:\c#\GS-CSharp\GS-CSharp\bin\Debug\net8.0\GS-CSharp.runtimeconfig.json
+D:\c#\GS-CSharp\GS-CSharp\bin\Debug\net8.0\GS-CSharp.dll
+D:\c#\GS-CSharp\GS-CSharp\bin\Debug\net8.0\GS-CSharp.pdb
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\GS-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\GS-CSharp.AssemblyInfoInputs.cache
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\GS-CSharp.AssemblyInfo.cs
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\GS-CSharp.csproj.CoreCompileInputs.cache
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\GS-CSharp.dll
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\refint\GS-CSharp.dll
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\GS-CSharp.pdb
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\GS-CSharp.genruntimeconfig.cache
+D:\c#\GS-CSharp\GS-CSharp\obj\Debug\net8.0\ref\GS-CSharp.dll
