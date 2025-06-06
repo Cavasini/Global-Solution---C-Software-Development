@@ -18,7 +18,7 @@ O sistema oferece as seguintes funcionalidades:
 * **Registro de falhas e apagões**: Permite registrar ocorrências com data, local e tipo de incidente.
 * **Geração de alertas com níveis de risco**: Notificações automáticas para indicar a gravidade das situações.
 * **Visualização de relatórios**: Ferramenta para análise e planejamento estratégico com base nos dados registrados.
-* **Validação de entradas robusta com tratamento de erros**: Garante a confiabilidade dos dados inseridos, prevenindo falhas no sistema.
+* **Validação de entradas robusta com tratamento de erros**: Garante a confiabilidade dos dados inseridas, prevenindo falhas no sistema.
 
 A arquitetura do projeto segue boas práticas de **Orientação a Objetos**, com a lógica organizada em camadas (Models e Services), utilizando **encapsulamento** e **coesão** para um código limpo e de fácil manutenção.
 
@@ -37,5 +37,7 @@ O principal diferencial do **Apagão Alerta** reside na sua dupla abordagem: **c
 ## Conclusão
 
 Em um mundo cada vez mais conectado, as quedas de energia representam mais do que um mero desconforto; elas colocam vidas em risco e expõem vulnerabilidades digitais críticas. O **Apagão Alerta** é uma solução escalável e aplicável em cenários reais, com o potencial de fortalecer a segurança, a comunicação e o planejamento em momentos de crise.
+
+Muito obrigada por assistir. Você pode conferir a apresentação completa do projeto aqui: [Apresentação do Projeto Apagão Alerta](https://youtu.be/FHpAenXcrz4)
 
 Convidamos você a explorar o projeto, que está disponível no GitHub com código aberto, bem estruturado e comentado. Juntos, podemos construir sistemas mais resilientes!
