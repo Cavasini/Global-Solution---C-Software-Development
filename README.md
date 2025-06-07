@@ -41,3 +41,8 @@ Em um mundo cada vez mais conectado, as quedas de energia representam mais do qu
 Muito obrigada por assistir. Você pode conferir a apresentação completa do projeto aqui: [Apresentação do Projeto Apagão Alerta](https://youtu.be/FHpAenXcrz4)
 
 Convidamos você a explorar o projeto, que está disponível no GitHub com código aberto, bem estruturado e comentado. Juntos, podemos construir sistemas mais resilientes!
+
+---
+Desenvolvido por:
+* **Lana Leite** - rm551143
+* **Matheus Cavasini** - RM97722
